@@ -196,6 +196,6 @@ public class CRCAlgorithm {
         }
         if (messageChanged) {
             wrongMess++;
-        }
+        } 
     }
 }
