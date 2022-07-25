@@ -73,7 +73,7 @@ public class CRCAlgorithm {
      */
     public int getWrongMessCaught() {
         return wrongMessCaught;
-    }
+    } 
 
     /**
      * Returns the counter wrongMessNotCaught
